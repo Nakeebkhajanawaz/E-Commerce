@@ -3,6 +3,7 @@ import styled from "styled-components";
 import { Link } from "react-router-dom";
 import { ProductConsumer } from "../context";
 import PropTypes from 'prop-types'
+//this is product page
 
 export default class Product extends Component {
   render() {
