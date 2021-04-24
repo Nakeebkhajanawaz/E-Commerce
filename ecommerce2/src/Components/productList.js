@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import Product from './Product'
 import Title from './Title'
 import {ProductConsumer} from '../context'
+//this is product list
 
 export default class ProductList extends Component {
   render() {
