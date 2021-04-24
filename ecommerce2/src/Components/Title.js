@@ -1,4 +1,5 @@
 import React from 'react'
+//how to display title
 
 export default ({name, title}) => {
   return (
