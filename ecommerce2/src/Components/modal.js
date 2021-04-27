@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import {ProductConsumer} from '../context';
 import {ButtonContainer} from './Button';
 import {Link} from 'react-router-dom';
+//modal
 
 export default class Modal extends Component {
   render() {
